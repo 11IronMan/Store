@@ -1,0 +1,39 @@
+{
+    "cards":[
+        {
+            "id":1,
+            "image":"https://avatars.mds.yandex.net/i?id=b707f2b7c873a149d66266d7e27b51d43293dcee-4589919-images-thumbs&n=13",
+            "title":"iphone 8",
+            "memory":"64",
+            "price":"150"
+        },
+        {
+            "id":2,
+            "image":"https://img5.lalafo.com/i/posters/original/20/34/16/cbe0d6cfd5a7b30f84a2f5cc55.jpeg",
+            "title":"iphone 8+",
+            "memory":"128",
+            "price":"200"
+        },
+        {
+            "id":3,
+            "image":"https://en.letsgodigital.org/uploads/2018/07/iphone-2019.jpg",
+            "title":"iphone X",
+            "memory":"128",
+            "price":"250"
+        },
+        {
+            "id":4,
+            "image":"https://p.turbosquid.com/ts-thumb/N2/YaXfdB/fPPeAL7b/002/jpg/1538202967/1920x1080/fit_q99/735829375e68ddb0ca0fdcbad2e77102d79204db/002.jpg",
+            "title":"iphone XS",
+            "memory":"128",
+            "price":"300"
+        },
+        {
+            "id":5,
+            "image":"https://p.turbosquid.com/ts-thumb/N2/YaXfdB/fPPeAL7b/002/jpg/1538202967/1920x1080/fit_q99/735829375e68ddb0ca0fdcbad2e77102d79204db/002.jpg",
+            "title":"iphone XS max",
+            "memory":"256",
+            "price":"350"
+        }
+    ]
+}
